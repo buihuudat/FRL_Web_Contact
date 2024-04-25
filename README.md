@@ -30,8 +30,3 @@ Contributions are welcome! If you'd like to contribute to Web Contact Super VIP 
 ## License
 This project is licensed under the MIT License.
 
-## Chart Example
-You can add a chart to visualize data. Here's an example using Chart.js:
-
-```html
-<canvas id="myChart"></canvas>
